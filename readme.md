@@ -2,5 +2,5 @@
   instrucoes para instalacao abaixo ↓
   
   ```
-  instrucoes
+  node app.js
   ```
