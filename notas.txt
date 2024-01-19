@@ -1,0 +1,1 @@
+! em um arquivo html ja deixa o cabecalho pronto
